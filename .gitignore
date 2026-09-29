@@ -1,0 +1,5 @@
+.build/
+.DS_Store
+Task1-ObjC/hello
+.swiftpm/
+~$*
